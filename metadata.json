@@ -1,0 +1,6 @@
+{
+  "name": "Detector de Tempo y Metrónomo",
+  "description": "Detecta el BPM de tus canciones favoritas al subirlas y practica con un metrónomo interactivo sincronizado, con opción de ajuste manual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
